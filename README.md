@@ -3,3 +3,7 @@ Guest Lecture at HAW 04/2021 Medientechnik
 
 ## Introduction 
 simple python TDD implementation of a vending machine (state pattern).
+
+## Overview
+
+![state machine](state_machine.png)
